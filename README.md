@@ -5,7 +5,7 @@ some utility scripts
 ## Volcano plot
 
 
-## Histohram
+## Histogram
 
 ## PCA
 
