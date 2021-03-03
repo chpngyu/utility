@@ -10,6 +10,11 @@ python volcano_plot.py -d volcano_data.csv --title "Volcano plot"
 volcano_plot.py reads volcano_data.csv and generates a figure, which looks like
 <img src="https://github.com/chpngyu/utility/blob/main/volcano_plot.jpg">
 
+For more other options type
+```Shell
+python volcano_plot.py -h
+```
+
 ## Histogram
 
 ## PCA
