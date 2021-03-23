@@ -23,8 +23,8 @@ Compute and draw Principal Component Analysis (PCA) in 2D or 3D.
 
 ## Histogram
 
-Compute and draw the histogram of a list of values. This script allows user to provide your own data in several formats, including of csv, tsv, excel, ..etc.
-Then user can select the subset of data to plot a histogram, where the regions and bins can set set. The dimension of the histogram are avaiable for 1D and 2D.
+Compute and draw the histogram for matrix data. This script allows user to provide your own data in several formats, including of csv, tsv, excel, ..etc.
+Then user can select the subset of data to plot and set the regions and bins to plot. The dimension of the histogram are avaiable for 1D and 2D.
 
 ## Heatmap and Clustering
 
